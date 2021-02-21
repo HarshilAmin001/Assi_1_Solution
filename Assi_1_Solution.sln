@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assi_1_Solution", "Assi_1_Solution\Assi_1_Solution.csproj", "{CF7E90CF-4C51-4531-8970-70BF7688D670}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rect_Test", "Rect_Test\Rect_Test.csproj", "{E3B5F175-A280-44BB-A99D-68A40484F372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF7E90CF-4C51-4531-8970-70BF7688D670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF7E90CF-4C51-4531-8970-70BF7688D670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF7E90CF-4C51-4531-8970-70BF7688D670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B5F175-A280-44BB-A99D-68A40484F372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B5F175-A280-44BB-A99D-68A40484F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B5F175-A280-44BB-A99D-68A40484F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B5F175-A280-44BB-A99D-68A40484F372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

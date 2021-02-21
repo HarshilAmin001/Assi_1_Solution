@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zAwlSX+H8I9rod4kUsg3jKdMHT7wi6hpydnDtm1SGYnN9VVFIHCIlAQY/dX2HSBVftVKXlcfsqsfbRV3nyoNVQ==",
+  "dgSpecHash": "1ROA1uk5eoz02O8P1HPXgtidUFg5Se80HykOXk6AQx++ZIxDzGVBb82mVOH0yuDHajq9+wtf8e+LRbTNolLvuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HARSHIL AMIN\\Documents\\GitHub\\Assi_1_Solution\\Assi_1_Solution\\Assi_1_Solution.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HARSHIL AMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HARSHIL AMIN\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HARSHIL AMIN\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
   "logs": []
 }
