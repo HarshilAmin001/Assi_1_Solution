@@ -1,0 +1,10 @@
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\bin\Debug\Assign1_solution.exe.config
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\bin\Debug\Assign1_solution.exe
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\bin\Debug\Assign1_solution.pdb
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\bin\Debug\nunit.framework.dll
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\bin\Debug\nunit.framework.xml
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\obj\Debug\Assign1_solution.csprojAssemblyReference.cache
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\obj\Debug\Assign1_solution.csproj.CoreCompileInputs.cache
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\obj\Debug\Assign1_solution.csproj.CopyComplete
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\obj\Debug\Assign1_solution.exe
+C:\Users\abhi\source\repos\Assign1_solution\Assign1_solution\obj\Debug\Assign1_solution.pdb

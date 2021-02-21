@@ -1,4 +1,0 @@
-C:\Users\HARSHIL AMIN\Documents\GitHub\Assi_1_Solution\Assi_1_Solution\bin\Debug\netcoreapp3.1\Assi_1_Solution.exe
-C:\Users\HARSHIL AMIN\Documents\GitHub\Assi_1_Solution\Assi_1_Solution\obj\Debug\netcoreapp3.1\Assi_1_Solution.csprojAssemblyReference.cache
-C:\Users\HARSHIL AMIN\Documents\GitHub\Assi_1_Solution\Assi_1_Solution\obj\Debug\netcoreapp3.1\Assi_1_Solution.AssemblyInfoInputs.cache
-C:\Users\HARSHIL AMIN\Documents\GitHub\Assi_1_Solution\Assi_1_Solution\obj\Debug\netcoreapp3.1\Assi_1_Solution.AssemblyInfo.cs
